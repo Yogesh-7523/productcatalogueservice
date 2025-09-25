@@ -1,0 +1,14 @@
+com\org\productcatalogue\request\PriceRequest.class
+com\org\productcatalogue\response\Category.class
+com\org\productcatalogue\response\Category$CategoryBuilder.class
+com\org\productcatalogue\request\AttributeRequest$AttributeRequestBuilder.class
+com\org\productcatalogue\response\Price$PriceBuilder.class
+com\org\productcatalogue\request\ProductRequest$ProductRequestBuilder.class
+com\org\productcatalogue\response\Attribute.class
+com\org\productcatalogue\response\ProductResponse$ProductResponseBuilder.class
+com\org\productcatalogue\response\ProductResponse.class
+com\org\productcatalogue\request\ProductRequest.class
+com\org\productcatalogue\request\AttributeRequest.class
+com\org\productcatalogue\response\Price.class
+com\org\productcatalogue\request\PriceRequest$PriceRequestBuilder.class
+com\org\productcatalogue\response\Attribute$AttributeBuilder.class
